@@ -13,7 +13,7 @@ A simple Streamlit interface is used for interaction.
 
 ## Demo
 
-![Agrobot Demo](images/demo.jpg)
+![Agrobot Demo](images/demo.jpeg)
 
 ---
 
