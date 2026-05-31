@@ -1,0 +1,15 @@
+Environment set up:
+
+pip install pdfplumber
+
+pip install requests beautifulsoup4
+
+pip install python-dotenv
+
+pip install openai faiss-cpu numpy
+
+pip install tiktoken
+
+pip install PyPDF2
+
+Are there guidelines for applying fertilizer to minimize nutrient loss in British Columbia?
